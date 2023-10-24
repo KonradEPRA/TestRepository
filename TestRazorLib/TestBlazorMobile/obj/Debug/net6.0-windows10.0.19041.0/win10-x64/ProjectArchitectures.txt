@@ -1,0 +1,1 @@
+C:\Users\krawc\source\repos\TestRepository\TestRazorLib\TestBlazorMobile\TestBlazorMobile.csproj;x64

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "XpuKxxGhViaVvApQ4Dl3W1I8cA3Ctjmy4nSE78VsbOs=",
+  "Source": "TestRazorLib",
+  "BasePath": "_content/TestRazorLib",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestRazorLib\\wwwroot",
+      "Source": "TestRazorLib",
+      "ContentRoot": "C:\\Users\\krawc\\source\\repos\\TestRepository\\TestRazorLib\\TestRazorLib\\wwwroot\\",
+      "BasePath": "_content/TestRazorLib",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\krawc\\source\\repos\\TestRepository\\TestRazorLib\\TestRazorLib\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TestRazorLib.styles.css",
+      "SourceId": "TestRazorLib",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\krawc\\source\\repos\\TestRepository\\TestRazorLib\\TestRazorLib\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/TestRazorLib",
+      "RelativePath": "TestRazorLib.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\krawc\\source\\repos\\TestRepository\\TestRazorLib\\TestRazorLib\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TestRazorLib.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\krawc\\source\\repos\\TestRepository\\TestRazorLib\\TestRazorLib\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TestRazorLib.bundle.scp.css",
+      "SourceId": "TestRazorLib",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\krawc\\source\\repos\\TestRepository\\TestRazorLib\\TestRazorLib\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/TestRazorLib",
+      "RelativePath": "TestRazorLib.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\krawc\\source\\repos\\TestRepository\\TestRazorLib\\TestRazorLib\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TestRazorLib.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\krawc\\source\\repos\\TestRepository\\TestRazorLib\\TestRazorLib\\wwwroot\\background.png",
+      "SourceId": "TestRazorLib",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\krawc\\source\\repos\\TestRepository\\TestRazorLib\\TestRazorLib\\wwwroot\\",
+      "BasePath": "_content/TestRazorLib",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\krawc\\source\\repos\\TestRepository\\TestRazorLib\\TestRazorLib\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "TestRazorLib",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\krawc\\source\\repos\\TestRepository\\TestRazorLib\\TestRazorLib\\wwwroot\\",
+      "BasePath": "_content/TestRazorLib",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

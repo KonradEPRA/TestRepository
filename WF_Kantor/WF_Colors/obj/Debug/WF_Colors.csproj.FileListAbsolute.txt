@@ -1,0 +1,10 @@
+C:\Users\krawc\source\repos\TestRepository\WF_Kantor\WF_Colors\bin\Debug\WF_Colors.exe.config
+C:\Users\krawc\source\repos\TestRepository\WF_Kantor\WF_Colors\bin\Debug\WF_Colors.exe
+C:\Users\krawc\source\repos\TestRepository\WF_Kantor\WF_Colors\bin\Debug\WF_Colors.pdb
+C:\Users\krawc\source\repos\TestRepository\WF_Kantor\WF_Colors\obj\Debug\WF_Colors.csproj.AssemblyReference.cache
+C:\Users\krawc\source\repos\TestRepository\WF_Kantor\WF_Colors\obj\Debug\WF_Colors.Properties.Resources.resources
+C:\Users\krawc\source\repos\TestRepository\WF_Kantor\WF_Colors\obj\Debug\WF_Colors.csproj.GenerateResource.cache
+C:\Users\krawc\source\repos\TestRepository\WF_Kantor\WF_Colors\obj\Debug\WF_Colors.csproj.CoreCompileInputs.cache
+C:\Users\krawc\source\repos\TestRepository\WF_Kantor\WF_Colors\obj\Debug\WF_Colors.exe
+C:\Users\krawc\source\repos\TestRepository\WF_Kantor\WF_Colors\obj\Debug\WF_Colors.pdb
+C:\Users\krawc\source\repos\TestRepository\WF_Kantor\WF_Colors\obj\Debug\WF_Colors.Form1.resources

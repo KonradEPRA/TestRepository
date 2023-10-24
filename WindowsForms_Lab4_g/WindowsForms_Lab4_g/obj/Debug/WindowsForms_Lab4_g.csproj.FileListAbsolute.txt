@@ -1,0 +1,10 @@
+C:\Users\krawc\source\repos\TestRepository\WindowsForms_Lab4_g\WindowsForms_Lab4_g\bin\Debug\WindowsForms_Lab4_g.exe.config
+C:\Users\krawc\source\repos\TestRepository\WindowsForms_Lab4_g\WindowsForms_Lab4_g\bin\Debug\WindowsForms_Lab4_g.exe
+C:\Users\krawc\source\repos\TestRepository\WindowsForms_Lab4_g\WindowsForms_Lab4_g\bin\Debug\WindowsForms_Lab4_g.pdb
+C:\Users\krawc\source\repos\TestRepository\WindowsForms_Lab4_g\WindowsForms_Lab4_g\obj\Debug\WindowsForms_Lab4_g.csproj.AssemblyReference.cache
+C:\Users\krawc\source\repos\TestRepository\WindowsForms_Lab4_g\WindowsForms_Lab4_g\obj\Debug\WindowsForms_Lab4_g.Form1.resources
+C:\Users\krawc\source\repos\TestRepository\WindowsForms_Lab4_g\WindowsForms_Lab4_g\obj\Debug\WindowsForms_Lab4_g.Properties.Resources.resources
+C:\Users\krawc\source\repos\TestRepository\WindowsForms_Lab4_g\WindowsForms_Lab4_g\obj\Debug\WindowsForms_Lab4_g.csproj.GenerateResource.cache
+C:\Users\krawc\source\repos\TestRepository\WindowsForms_Lab4_g\WindowsForms_Lab4_g\obj\Debug\WindowsForms_Lab4_g.csproj.CoreCompileInputs.cache
+C:\Users\krawc\source\repos\TestRepository\WindowsForms_Lab4_g\WindowsForms_Lab4_g\obj\Debug\WindowsForms_Lab4_g.exe
+C:\Users\krawc\source\repos\TestRepository\WindowsForms_Lab4_g\WindowsForms_Lab4_g\obj\Debug\WindowsForms_Lab4_g.pdb

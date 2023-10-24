@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_Kantor", "WF_Kantor\WF_Kantor.csproj", "{4958CBA1-0100-42D4-814D-E8EC3C872233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_Colors", "WF_Colors\WF_Colors.csproj", "{FDBBA1FE-0599-433F-9C06-EAD84C1C1539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4958CBA1-0100-42D4-814D-E8EC3C872233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4958CBA1-0100-42D4-814D-E8EC3C872233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4958CBA1-0100-42D4-814D-E8EC3C872233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4958CBA1-0100-42D4-814D-E8EC3C872233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDBBA1FE-0599-433F-9C06-EAD84C1C1539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBBA1FE-0599-433F-9C06-EAD84C1C1539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBBA1FE-0599-433F-9C06-EAD84C1C1539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBBA1FE-0599-433F-9C06-EAD84C1C1539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6807259-A38E-4DA9-8AC9-9221834DDDD6}
+	EndGlobalSection
+EndGlobal
